@@ -9,16 +9,6 @@ Education: I study at the HSE Perm campus
 Interests: web development area and a little bit girls
 
 Programming languages and skills:
-1) C#:
-- WPF and WinForms
-- Entity Framework 6 + SQL Server
-- ASP.NET Core MVC
-2) Python:
-- FastAPI + SQLite/PostgreSQL
-3) NodeJS:
-- Almost nothing) Just got a taste
-4) Don't heat me, but HTML+CSS
-
 <ol>
  <li>C#:</li>
    <ul>
