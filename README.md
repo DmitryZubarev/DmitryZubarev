@@ -37,11 +37,8 @@ Software stacks:
    </ul>
  <li>Python:</li>
    <ul>
-     <li>FastAPI + SQLite/PostgreSQL</li>
-   </ul>
- <li>NodeJS:</li>
-   <ul>
-     <li>Almost nothing) Just got a taste</li>
+     <li>FastAPI</li>
+     <li>SQLAlchemy</li>
    </ul>
   <li>Don't heat me, but HTML+CSS</li>
 </ol>
