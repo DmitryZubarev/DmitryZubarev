@@ -48,6 +48,7 @@ Software stacks:
 
 ## 💬 Contacts
 Telegram - @just_poseur_pr
+</br>
 VK: https://vk.com/just_poseur
 
 </br>
