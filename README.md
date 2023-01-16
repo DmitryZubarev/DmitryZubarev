@@ -10,7 +10,7 @@ Interests: web development area and a little bit girls
 
 Programming languages and skills:
 <ol>
- <li>C#:</li>
+ <li><img src="https://media.giphy.com/media/W0DmreotWsLUO2IFEi/giphy-downsized-large.gif" width="50"/>C#:</li>
    <ul>
      <li>WPF and WinForms</li>
      <li>Entity Framework 6 + SQL Server/SQLite</li>
