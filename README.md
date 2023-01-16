@@ -35,7 +35,7 @@ Programming languages and skills:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|
 
-|Git|Github|Git|Github|VS Code|SQL
+|Git|Github|GitLab|Github|VS Code|SQL
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/jtRP4S3wdK2cGPoQDZ/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|
 </br>
