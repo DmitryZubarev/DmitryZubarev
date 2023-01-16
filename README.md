@@ -3,31 +3,6 @@
   <img src="https://media.giphy.com/media/W0DmreotWsLUO2IFEi/giphy-downsized-large.gif" width="1000"/>
 </div>
 
-<h3>About me:</h3>
-Education: I study at the HSE Perm campus
-
-Interests: web development area and a little bit girls
-
-Programming languages and skills:
-<ol>
- <li>C#:</li>
-   <ul>
-     <li>WPF and WinForms</li>
-     <li>Entity Framework 6 + SQL Server/SQLite</li>
-     <li>ASP.NET Core MVC</li>
-   </ul>
- <li>Python:</li>
-   <ul>
-     <li>FastAPI + SQLite/PostgreSQL</li>
-   </ul>
- <li>NodeJS:</li>
-   <ul>
-     <li>Almost nothing) Just got a taste</li>
-   </ul>
-  <li>Don't heat me, but HTML+CSS</li>
-</ol>
-
-
 
 ## ⚙️ Skills
 
@@ -47,4 +22,28 @@ Programming languages and skills:
 |:-:|:-:|
 |<img style="width: 100px" src="https://www.svgrepo.com/show/353659/docker-icon.svg">|<img style="width: 125px" src="https://raw.githubusercontent.com/wjddyd66/wjddyd66.github.io/master/static/img/Docker/d_3.PNG">|
 </br>
-</br>
+
+<h3>About me:</h3>
+Education: I study at the HSE Perm campus
+
+Interests: web development area and a little bit girls
+
+Software stacks:
+<ol>
+ <li>C#:</li>
+   <ul>
+     <li>WPF and WinForms + Database</li>
+     <li>Entity Framework 6 + SQL Server/SQLite</li>
+     <li>ASP.NET Core MVC</li>
+   </ul>
+ <li>Python:</li>
+   <ul>
+     <li>FastAPI + SQLite/PostgreSQL</li>
+   </ul>
+ <li>NodeJS:</li>
+   <ul>
+     <li>Almost nothing) Just got a taste</li>
+   </ul>
+  <li>Don't heat me, but HTML+CSS</li>
+</ol>
+
