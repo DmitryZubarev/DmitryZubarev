@@ -27,8 +27,8 @@
 
 C#:
   <ul>
-    <li>WPF and WinForms + Database</li>
-    <li>Entity Framework 6 + SQL Server/SQLite</li>
+    <li>WPF and WinForms</li>
+    <li>Entity Framework 6</li>
     <li>ASP.NET Core MVC</li>
   </ul>
 Python:
