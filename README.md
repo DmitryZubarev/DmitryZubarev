@@ -18,3 +18,21 @@ Programming languages and skills:
 3) NodeJS:
 - Almost nothing) Just got a taste
 4) Don't heat me, but HTML+CSS
+
+<ol>
+ <li>C#:</li>
+   <ul>
+     <li>WPF and WinForms</li>
+     <li>Entity Framework 6 + SQL Server/SQLite</li>
+     <li>ASP.NET Core MVC</li>
+   </ul>
+ <li>Python:</li>
+   <ul>
+     <li>FastAPI + SQLite/PostgreSQL</li>
+   </ul>
+ <li>NodeJS:</li>
+   <ul>
+     <li>Almost nothing) Just got a taste</li>
+   </ul>
+  <li>Don't heat me, but HTML+CSS</li>
+</ol>
