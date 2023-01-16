@@ -40,7 +40,7 @@ Software stacks:
 </ol>
 
 </br>
-## 💬 Contacts
+## 💬Contacts
 </br>
 Telegram - @just_poseur_pr
 </br>
