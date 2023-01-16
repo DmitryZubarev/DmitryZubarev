@@ -1,4 +1,4 @@
-<h1>Dmitry Zubarev</h1>
+<h1 align="center">Dmitry Zubarev</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="700"/>
 </div>
