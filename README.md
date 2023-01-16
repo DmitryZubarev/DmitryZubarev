@@ -46,6 +46,7 @@ Software stacks:
   <li>Don't heat me, but HTML+CSS</li>
 </ol>
 
+</br>
 ## 💬 Contacts
 Telegram - @just_poseur_pr
 </br>
