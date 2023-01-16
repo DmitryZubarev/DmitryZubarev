@@ -41,6 +41,6 @@ Programming languages and skills:
 
 |SQL|SQLite|SQLServer|PostgreSQL|VS Code|SQL
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://iconscout.com/icon/sqlite">|<img style="width: 100px" src="https://media.giphy.com/media/jtRP4S3wdK2cGPoQDZ/giphy.gif">|<img style="width: 100px" src="https://www.iconsdb.com/icons/preview/orange/postgresql-xxl.png">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|
+|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.trustradius.com/product-logos/6O/c7/R8JW30GR5ELU.PNG">|<img style="width: 100px" src="https://media.giphy.com/media/jtRP4S3wdK2cGPoQDZ/giphy.gif">|<img style="width: 100px" src="https://www.iconsdb.com/icons/preview/orange/postgresql-xxl.png">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|
 </br>
 </br>
