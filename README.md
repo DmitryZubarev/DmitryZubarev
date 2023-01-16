@@ -31,8 +31,8 @@ Programming languages and skills:
 
 ## ⚙️ Languages & Tools 
 
-|Html|Css|C#|Typescript|Python
-|:-:|:-:|:-:|:-:|:-:|
+|Html|Css|C#|Python
+|:-:|:-:|:-:|:-:|
 |<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|
 
 |SQL|Git|Docker
