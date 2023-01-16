@@ -23,9 +23,8 @@
 |<img style="width: 100px" src="https://www.svgrepo.com/show/353659/docker-icon.svg">|<img style="width: 125px" src="https://raw.githubusercontent.com/wjddyd66/wjddyd66.github.io/master/static/img/Docker/d_3.PNG">|
 </br>
 
-
-<ol>
 Software stacks:
+<ol>
  <li>C#:</li>
    <ul>
      <li>WPF and WinForms + Database</li>
@@ -42,8 +41,7 @@ Software stacks:
 
 </br>
 ## 💬 Contacts
+</br>
 Telegram - @just_poseur_pr
 </br>
 VK: https://vk.com/just_poseur
-
-</br>
