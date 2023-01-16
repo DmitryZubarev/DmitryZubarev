@@ -1,7 +1,4 @@
 <h1 align="center">Dmitry Zubarev</h1>
-<div align="center">
-  <img src="" width="200"/>
-</div>
 <div>
   <img src="https://media.giphy.com/media/W0DmreotWsLUO2IFEi/giphy-downsized-large.gif" width="1000"/>
 </div>
