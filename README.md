@@ -29,7 +29,7 @@ Programming languages and skills:
 
 
 
-## ⚙️ Languages & Tools 
+## ⚙️ Skills
 
 |Html|Css|C#|Python|
 |:-:|:-:|:-:|:-:|
