@@ -1,4 +1,4 @@
-<div aligh="center">
+<div id="header" aligh="center">
   <h1>Smile! You look like a crone kicked you out of a bus seat.</h1>
 </div>
 <div align="center">
