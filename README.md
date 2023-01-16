@@ -1,4 +1,4 @@
-<h1>Smile! You look like a crone kicked you out of a bus seat.</h1>
+<h1>Don't cry... I know you wanted to buy Tesla shares in time too</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="700"/>
