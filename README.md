@@ -45,6 +45,6 @@ Programming languages and skills:
 
 |Docker|docker-compose|SQLServer|PostgreSQL|VS Code|SQL
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://www.svgrepo.com/show/353659/docker-icon.svg">|<img style="width: 100px" src="https://image.pngaaa.com/22/4852022-middle.png">|<img style="width: 100px" src="https://datawarehouse.io/wp-content/uploads/2020/04/MSSQL.png">|<img style="width: 100px" src="https://www.iconsdb.com/icons/preview/orange/postgresql-xxl.png">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|
+|<img style="width: 100px" src="https://www.svgrepo.com/show/353659/docker-icon.svg">|<img style="width: 100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--X5igKmgy--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/enhleh7papgs9tdu0oyb.png">|<img style="width: 100px" src="https://datawarehouse.io/wp-content/uploads/2020/04/MSSQL.png">|<img style="width: 100px" src="https://www.iconsdb.com/icons/preview/orange/postgresql-xxl.png">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|
 </br>
 </br>
