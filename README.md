@@ -24,9 +24,8 @@
 </br>
 
 
-Software stacks:
 <ol>
-  Software stacks:
+Software stacks:
  <li>C#:</li>
    <ul>
      <li>WPF and WinForms + Database</li>
