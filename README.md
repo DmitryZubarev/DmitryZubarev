@@ -24,20 +24,20 @@
 </br>
 
 ## Software stacks:
-<ol>
- <li>C#:</li>
-   <ul>
-     <li>WPF and WinForms + Database</li>
-     <li>Entity Framework 6 + SQL Server/SQLite</li>
-     <li>ASP.NET Core MVC</li>
-   </ul>
- <li>Python:</li>
-   <ul>
-     <li>FastAPI</li>
-     <li>SQLAlchemy</li>
-   </ul>
-  <li>Don't heat me, but HTML+CSS</li>
-</ol>
+
+C#:
+  <ul>
+    <li>WPF and WinForms + Database</li>
+    <li>Entity Framework 6 + SQL Server/SQLite</li>
+    <li>ASP.NET Core MVC</li>
+  </ul>
+Python:
+  <ul>
+    <li>FastAPI</li>
+    <li>SQLAlchemy</li>
+  </ul>
+Don't heat me, but HTML+CSS
+
 
 
 ## 💬Contacts
