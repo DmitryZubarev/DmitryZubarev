@@ -24,7 +24,6 @@
 </br>
 
 <h3>About me:</h3>
-Education: I study at the HSE Perm campus
 
 Interests: web development area and a little bit girls
 
@@ -47,3 +46,8 @@ Software stacks:
   <li>Don't heat me, but HTML+CSS</li>
 </ol>
 
+## 💬 Contacts
+Telegram - @just_poseur_pr
+VK: https://vk.com/just_poseur
+
+</br>
