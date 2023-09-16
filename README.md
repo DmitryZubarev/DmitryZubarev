@@ -1,8 +1,4 @@
 <h1 align="center">Dmitry Zubarev</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="1000"/>
-</div>
-
 
 ## ⚙️ Skills
 
